@@ -15,6 +15,8 @@ menu = [
     {"nom": "Mafe", "prix": 1800},
     {"nom": "Domoda", "prix": 1700},
     {"nom": "Salade Cesar", "prix": 1500},
+    {"nom": "Poulet DG", "prix": 4000 },
+    {"nom": "Ndolé", "prix": 3000 }
 ]
 
 # -----------------------------------------------------
